@@ -5,7 +5,7 @@ import os
 
 # Ваш токен из @BotFather
 TOKEN = "8513702327:AAHY_4qf5qbizCXUxlYoOJFgig5CPw6Ovrw"   # ← замените на свой реальный токен!
-WEBHOOK_URL = f"https://ваш-сервис.onrender.com/webhook"       # ← пока оставьте так, потом обновим
+WEBHOOK_URL = f"https://telegram-webhook-e0i9.onrender.com"       # ← пока оставьте так, потом обновим
 
 app = FastAPI()
 
