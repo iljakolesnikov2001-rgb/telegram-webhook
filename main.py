@@ -4,7 +4,7 @@ import uvicorn
 import os
 
 # Ваш токен из @BotFather
-TOKEN = "7239478912:AAH1234567890abcdefgHIJKLmnopqrstuv"   # ← замените на свой реальный токен!
+TOKEN = "8513702327:AAHY_4qf5qbizCXUxlYoOJFgig5CPw6Ovrw"   # ← замените на свой реальный токен!
 WEBHOOK_URL = f"https://ваш-сервис.onrender.com/webhook"       # ← пока оставьте так, потом обновим
 
 app = FastAPI()
