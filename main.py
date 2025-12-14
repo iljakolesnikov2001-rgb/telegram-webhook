@@ -9,7 +9,7 @@ TOKEN = "8513702327:AAHY_4qf5qbizCXUxlYoOJFgig5CPw6Ovrw"   # ← ваш реал
 WEBHOOK_URL = "https://telegram-webhook-e0i9.onrender.com/webhook"       # ← ваш реальный URL
 
 # Chat ID, куда пересылать сообщения (замените на реальный!)
-TARGET_CHAT_ID = 123456789  # ← Вставьте chat_id вашего аккаунта/группы здесь
+TARGET_CHAT_ID = 6591713075  # ← Вставьте chat_id вашего аккаунта/группы здесь
 
 app = FastAPI()
 
